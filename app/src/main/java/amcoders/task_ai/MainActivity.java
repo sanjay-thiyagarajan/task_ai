@@ -43,15 +43,9 @@ public class MainActivity extends AppCompatActivity {
         btnAddNew = findViewById(R.id.btnAddNew);
 
         // import font
-        Typeface MLight = Typeface.createFromAsset(getAssets(), "fonts/ML.ttf");
-        Typeface MMedium = Typeface.createFromAsset(getAssets(), "fonts/MM.ttf");
 
         // customize font
-        titlepage.setTypeface(MMedium);
-        subtitlepage.setTypeface(MLight);
-        endpage.setTypeface(MLight);
 
-        btnAddNew.setTypeface(MLight);
 
         btnAddNew.setOnClickListener(new View.OnClickListener() {
             @Override
