@@ -9,10 +9,14 @@
     <li>The approach is to use a prioritizer model powered by Machine Learning</li>
     <li>The prioritizer analyzes the sentiments of the task and gives a priority score</li>
     <li>The tasks are then sorted in a descending order ranging from the highest priority to the lowest one.</li>
-   
  </ul>
  <p>So prioritizing this process is the right thing to do, also keeping in mind the current CoVID-19 era. This will not only ensure your own's time keeping ability but also his efficiency.</p>
  <br>
+ ##Screenshots of the application
+ <img src = "https://raw.githubusercontent.com/sanjay-thiyagarajan/task_ai/master/app/src/main/res/images/ss1.jpeg">
+ <img src = "https://raw.githubusercontent.com/sanjay-thiyagarajan/task_ai/master/app/src/main/res/images/ss2.jpeg">
+ <img src = "https://raw.githubusercontent.com/sanjay-thiyagarajan/task_ai/master/app/src/main/res/images/ss3.jpeg">
+ <img src = "https://raw.githubusercontent.com/sanjay-thiyagarajan/task_ai/master/app/src/main/res/images/ss4.jpeg">
  <h3> Steps for using</h3>
 <ul>
   <li>Clone the repo</li>
