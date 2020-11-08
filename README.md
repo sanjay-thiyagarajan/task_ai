@@ -13,7 +13,7 @@
  <p>So prioritizing this process is the right thing to do, also keeping in mind the current CoVID-19 era. This will not only ensure your own's time keeping ability but also his efficiency.</p>
  <br>
  ##Screenshots of the application
- <img src = "https://raw.githubusercontent.com/sanjay-thiyagarajan/task_ai/master/app/src/main/res/images/ss1.jpeg" height="200" width="100">
+ <img src = "https://raw.githubusercontent.com/sanjay-thiyagarajan/task_ai/master/app/src/main/res/images/ss1.jpeg" height="500" width="300">
  <img src = "https://raw.githubusercontent.com/sanjay-thiyagarajan/task_ai/master/app/src/main/res/images/ss2.jpeg">
  <img src = "https://raw.githubusercontent.com/sanjay-thiyagarajan/task_ai/master/app/src/main/res/images/ss3.jpeg">
  <h3> Steps for using</h3>
