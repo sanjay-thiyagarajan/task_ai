@@ -14,7 +14,7 @@
  <br>
 <h3>Screenshots of the application</h3>
 <div>
- <img src = "https://raw.githubusercontent.com/sanjay-thiyagarajan/task_ai/master/app/src/main/res/images/ss1.jpeg" height="500" width="250"><p>   </p><img src = "https://raw.githubusercontent.com/sanjay-thiyagarajan/task_ai/master/app/src/main/res/images/ss2.jpeg" height="500" width="250"><p>  </p><img src = "https://raw.githubusercontent.com/sanjay-thiyagarajan/task_ai/master/app/src/main/res/images/ss3.jpeg" height="500" width="250">
+ <img src = "https://raw.githubusercontent.com/sanjay-thiyagarajan/task_ai/master/app/src/main/res/images/ss1.jpeg" height="500" width="250">&nbsp<img src = "https://raw.githubusercontent.com/sanjay-thiyagarajan/task_ai/master/app/src/main/res/images/ss2.jpeg" height="500" width="250">&nbsp<img src = "https://raw.githubusercontent.com/sanjay-thiyagarajan/task_ai/master/app/src/main/res/images/ss3.jpeg" height="500" width="250">
   </div>
  <h3> Steps for using</h3>
 <ul>
