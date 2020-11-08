@@ -12,8 +12,10 @@
  </ul>
  <p>So prioritizing this process is the right thing to do, also keeping in mind the current CoVID-19 era. This will not only ensure your own's time keeping ability but also his efficiency.</p>
  <br>
- ##Screenshots of the application
+<h3>Screenshots of the application</h3>
+<div>
  <img src = "https://raw.githubusercontent.com/sanjay-thiyagarajan/task_ai/master/app/src/main/res/images/ss1.jpeg" height="500" width="250"><img src = "https://raw.githubusercontent.com/sanjay-thiyagarajan/task_ai/master/app/src/main/res/images/ss2.jpeg" height="500" width="250"><img src = "https://raw.githubusercontent.com/sanjay-thiyagarajan/task_ai/master/app/src/main/res/images/ss3.jpeg" height="500" width="250">
+  </div>
  <h3> Steps for using</h3>
 <ul>
   <li>Clone the repo</li>
